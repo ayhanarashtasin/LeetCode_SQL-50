@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayhanarashtasin/LeetCode_SQL-50/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ayhanarashtasin/LeetCode_SQL-50/tree/master/0054-spiral-matrix) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +19,9 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayhanarashtasin/LeetCode_SQL-50/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ayhanarashtasin/LeetCode_SQL-50/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ayhanarashtasin/LeetCode_SQL-50/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
