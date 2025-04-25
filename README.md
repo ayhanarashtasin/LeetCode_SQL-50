@@ -41,4 +41,16 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayhanarashtasin/LeetCode_SQL-50/tree/master/0054-spiral-matrix) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayhanarashtasin/LeetCode_SQL-50/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayhanarashtasin/LeetCode_SQL-50/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayhanarashtasin/LeetCode_SQL-50/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
